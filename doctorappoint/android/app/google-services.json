@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "92677229412",
+    "project_id": "doctorappoint-69368",
+    "storage_bucket": "doctorappoint-69368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92677229412:android:f845ba9063db4a7b138871",
+        "android_client_info": {
+          "package_name": "com.doc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPa7AlAHc_izyUlGqZxxXlyGy6HdOMrtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92677229412:android:d637c67911157aaf138871",
+        "android_client_info": {
+          "package_name": "com.doctor.appoint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPa7AlAHc_izyUlGqZxxXlyGy6HdOMrtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

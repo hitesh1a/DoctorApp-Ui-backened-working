@@ -1,0 +1,37 @@
+# In SQL we store data in the form of rows and columns
+
+# In NOSQL we store data in the form of
+ collection like collection of Users and Authors, inside collection we store documents.
+ Data is stored in the form of json objects in documents.
+
+ Json key value pair data stored
+
+ {
+    "title": "Peace and war",
+    "rating":9,
+    "page":400
+ }
+
+ 
+
+
+ # MongoDB documents oriented databases
+
+
+ # Hierarchy:
+ Clusters 
+ Database 
+ Collection
+
+
+ # Mongoose - Nodejs based library
+ # ODM - Object Data Modeling => It is used to connect backend to MongoDB and to perform CRUD operation
+
+ In Mongoose we have Models , Schemas
+
+ Installation:
+
+ npm install mongoose
+
+
+Model name == collection
